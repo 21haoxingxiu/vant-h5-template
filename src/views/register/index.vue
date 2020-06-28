@@ -3,7 +3,7 @@
  * @Autor: zhan
  * @Date: 2020-05-21 17:17:59
  * @LastEditors: zhan
- * @LastEditTime: 2020-06-28 10:59:47
+ * @LastEditTime: 2020-06-28 11:22:07
 --> 
 <template>
   <div class="wrapper">
@@ -19,7 +19,11 @@ name: 'Register'
 
 <style scoped>
 .wrapper {
-  width: 360;
+  width: 360px;
   height: 200px;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;  
 }
 </style>
